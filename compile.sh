@@ -2,3 +2,4 @@
 ./clean.sh
 make
 sudo make install
+./clean.sh
